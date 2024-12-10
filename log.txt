@@ -1,0 +1,42 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/api/ecom/auth/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userEmail": "John@mailinator.com",
+    "userPassword": "Sagar@91"
+}
+HTTP/1.1 200 OK
+Date: Tue, 10 Dec 2024 16:04:15 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+X-DNS-Prefetch-Control: off
+Expect-CT: max-age=0
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: no-referrer
+X-XSS-Protection: 0
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 358
+ETag: W/"166-/cLwpCTCow7Pr8x8SNFgDCQXbak"
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmZmYzNjY2FlMmFmZDRjMGI4ZWU2NTgiLCJ1c2VyRW1haWwiOiJKb2huQG1haWxpbmF0b3IuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTczMzg0NjY1NSwiZXhwIjoxNzY1NDA0MjU1fQ.5tcCx6IlM6O6A4b99EU7bQ6RA7N_42jyjuYv68zzuMc",
+    "userId": "66ffc3ccae2afd4c0b8ee658",
+    "message": "Login Successfully"
+}
