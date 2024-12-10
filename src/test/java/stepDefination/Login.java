@@ -43,7 +43,7 @@ public class Login extends common_base_methods {
 	public void the_system_should_return_a_valid_status_code() {
 		// Write code here that turns the phrase above into concrete actions
 		String res = response.asString();
-		JsonPath js = new JsonPath(res);
+		JsonPath js1 = new JsonPath(res);
 		assertEquals(response.statusCode(), 200);
 
 	}
