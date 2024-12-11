@@ -1,0 +1,18 @@
+{
+    "_id": "66ffc3ccae2afd4c0b8ee658",
+    "product": {
+        "_id": "6749631dae2afd4c0bd1f7f8",
+        "productName": "ADIDAS ORIGINAL",
+        "productCategory": "household",
+        "productSubCategory": "shoes",
+        "productPrice": 31500,
+        "productDescription": "Adidas shoes for Men",
+        "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649488046.jpg",
+        "productRating": "0",
+        "productTotalOrders": "0",
+        "productStatus": true,
+        "productFor": "men",
+        "productAddedBy": "admin@gmail.com",
+        "__v": 0
+    }
+}

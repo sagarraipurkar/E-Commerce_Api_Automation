@@ -2,16 +2,17 @@ package Utilities;
 
 public enum pathUrls {
 	
-	LoginpathApi("api/ecom/auth/login");
+	LoginpathApi("api/ecom/auth/login"),
+	AddToCartpathApi("api/ecom/user/add-to-cart");
 	
-	private String pathUrls;
+	private String url;
 	
-	private pathUrls(String pathUrls) {
-		this.pathUrls = pathUrls;
+	private pathUrls(String url) {
+		this.url = url;
 	}
 	
 	public String getUrls() {
-		return pathUrls;
+		return url;
 	}
 	
 
