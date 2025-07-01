@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
 import java.io.IOException;
 
 import org.junit.BeforeClass;
-import org.testng.annotations.Test;
+
 
 import io.restassured.specification.RequestSpecification;
 import pojo.credentails;
@@ -28,7 +28,6 @@ public class AALogin extends common_base_methods {
 	static Payloads data = new Payloads();
 	public static String token;
 
-	@Test
 //Verify User is able to log in with valid credentials
 	@Given("The user provides the login payload with {string} {string}")
 	public void the_user_provides_the_login_payload_with(String userEmail, String userPassword) throws IOException {

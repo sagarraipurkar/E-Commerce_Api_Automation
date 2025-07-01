@@ -11,11 +11,11 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "userEmail": "<userEmail>",
-    "userPassword": "<userPassword>"
+    "userEmail": "John1@mailinator.com",
+    "userPassword": "Sagar@91"
 }
 HTTP/1.1 400 Bad Request
-Date: Wed, 11 Dec 2024 13:39:16 GMT
+Date: Wed, 11 Dec 2024 15:19:07 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -50,11 +50,11 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "userEmail": "<userEmail>",
-    "userPassword": "<userPassword>"
+    "userEmail": "John@mailinator.com",
+    "userPassword": "Sagar@911"
 }
 HTTP/1.1 400 Bad Request
-Date: Wed, 11 Dec 2024 13:39:17 GMT
+Date: Wed, 11 Dec 2024 15:19:07 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -93,7 +93,7 @@ Body:
     "userPassword": "Sagar@91"
 }
 HTTP/1.1 200 OK
-Date: Wed, 11 Dec 2024 13:39:18 GMT
+Date: Wed, 11 Dec 2024 15:19:08 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -108,13 +108,13 @@ X-XSS-Protection: 0
 Access-Control-Allow-Origin: *
 Content-Type: application/json; charset=utf-8
 Content-Length: 358
-ETag: W/"166-hIeZ54ncMuDtMReVoSYeGLhdvbo"
+ETag: W/"166-IT3hoRKGmsklET83mZqUldJ+g8k"
 Vary: Accept-Encoding
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 
 {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmZmYzNjY2FlMmFmZDRjMGI4ZWU2NTgiLCJ1c2VyRW1haWwiOiJKb2huQG1haWxpbmF0b3IuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTczMzkyNDM1OCwiZXhwIjoxNzY1NDgxOTU4fQ.Ng8znTjS-QME2ABY6SRZxMAFgCVjAh_AtWfDWVTJ5Cg",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmZmYzNjY2FlMmFmZDRjMGI4ZWU2NTgiLCJ1c2VyRW1haWwiOiJKb2huQG1haWxpbmF0b3IuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTczMzkzMDM0OCwiZXhwIjoxNzY1NDg3OTQ4fQ.Vr7vs8SbMoLVggWY7W_TkLXgAa4YA8AXXyjon6EUCgI",
     "userId": "66ffc3ccae2afd4c0b8ee658",
     "message": "Login Successfully"
 }
@@ -125,7 +125,7 @@ Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmZmYzNjY2FlMmFmZDRjMGI4ZWU2NTgiLCJ1c2VyRW1haWwiOiJKb2huQG1haWxpbmF0b3IuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTczMzkyNDM1OCwiZXhwIjoxNzY1NDgxOTU4fQ.Ng8znTjS-QME2ABY6SRZxMAFgCVjAh_AtWfDWVTJ5Cg
+Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmZmYzNjY2FlMmFmZDRjMGI4ZWU2NTgiLCJ1c2VyRW1haWwiOiJKb2huQG1haWxpbmF0b3IuY29tIiwidXNlck1vYmlsZSI6MTIzNDU2Nzg5MCwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTczMzkzMDM0OCwiZXhwIjoxNzY1NDg3OTQ4fQ.Vr7vs8SbMoLVggWY7W_TkLXgAa4YA8AXXyjon6EUCgI
 				Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -150,7 +150,7 @@ Body:
     }
 }
 HTTP/1.1 200 OK
-Date: Wed, 11 Dec 2024 13:39:21 GMT
+Date: Wed, 11 Dec 2024 15:19:08 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
